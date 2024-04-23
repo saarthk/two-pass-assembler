@@ -1,0 +1,7 @@
+Key,Description,Fatal
+SND,Symbol used but not defined,TRUE
+DS,Duplicate symbol,FALSE
+ILM,Illegal mnemonic,FALSE
+INO,Insufficient operands,FALSE
+TOO,Too many operands,FALSE
+END,END statement missing,TRUE
